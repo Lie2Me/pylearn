@@ -8,4 +8,4 @@ else :
 
 
 if __name__=="__main__":
-    print "THis is first in function!!\n"
+    print "THis is second in function!!\n"
